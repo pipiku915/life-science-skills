@@ -1,0 +1,24 @@
+# Generated artifacts
+model_output_100
+output_data_100
+output_data
+model_output
+
+# Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtualenv
+bio-data-gen/
+venv/
+.venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
